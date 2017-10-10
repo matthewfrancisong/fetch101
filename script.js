@@ -9,6 +9,7 @@ $(function () {
       'Accept': 'application/json'
     }
 
+    // jhk
     var myInit = { method: 'POST',
       headers: myHeaders
     }
